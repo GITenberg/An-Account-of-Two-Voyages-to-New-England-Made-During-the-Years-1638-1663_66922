@@ -1,5 +1,8 @@
 _repo: An-Account-of-Two-Voyages-to-New-England-Made-During-the-Years-1638-1663_66922
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66922-h/images/cover.jpg
 creator:
   author:
     agent_name: Josselyn, John
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '54028'
     url: http://www.gutenberg.org/2009/agents/54028
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66922#An-Account-of-Two-Voyages-to-New-England-Made-During-the-Years-1638-1663
 gutenberg_issued: '2021-12-11'
 identifiers:
   gutenberg: '66922'
